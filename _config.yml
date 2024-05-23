@@ -25,7 +25,7 @@ author:
   name             : "Zhijie Li"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Biomedical Engineering, National University of Singapore, Singapore"
-  location         : "Earth"
+  location         : "Shenzhen, China"
   # employer         : "Red Brick University"
   uri              : # URL
   email            : "12132404@mail.sustech.edu.cn" 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  # github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

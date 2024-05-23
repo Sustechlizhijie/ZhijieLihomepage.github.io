@@ -10,8 +10,8 @@ Zhijie Li received the
 
 # Education Experience
 
-* 2024 - Present, Ph.D. in Biomedical Engineering, National University of Singapore, Singapore.
-* 2021 - 2024, M.Eng in Mechanics and Aerospace Engineering, Southern University of Science and Technology, China. **(Exempt from Admission Exam)**
+* 2024 - Present, Ph.D. in Biomedical Engineering, National University of Singapore, Singapore, Supervisor: `<u>`[Prof. Chwee Teck Lim](https://ctlimlab.org/people.html) `</u>`.
+* 2021 - 2024, M.Eng in Mechanics and Aerospace Engineering, Southern University of Science and Technology, China, Supervisor: `<u>`[Prof. Jianchun Wang](https://faculty.sustech.edu.cn/?tagid=wangjc&iscss=1&snapid=1&orderby=date&go=1) `</u>`. **(Exempt from Admission Exam)**
 * 2017 - 2021, B.Eng in Mechanical Design Manufacturing and Automation, Shantou University, China. **(Graduation with Highest Honors)**
 
 # Research Interests
@@ -37,8 +37,6 @@ Publication List
 
 * 2023 National Scholarship (Postgraduate)
 * 2020 National Scholarship (Undergraduate)
-
-
 
 For more info
 -------------

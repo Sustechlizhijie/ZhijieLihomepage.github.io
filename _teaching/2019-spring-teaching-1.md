@@ -8,6 +8,3 @@ date: 2019-03-01
 location: "City, Country"
 ---
 Tutor of Students Learning Center of Calculus.
-
-Heading 1
-=========
