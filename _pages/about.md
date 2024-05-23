@@ -31,12 +31,22 @@ Publication List
 
 # Patents
 
-1. A Multi­Position Wheelchair (CN202021973683.6, First inventor)
+1. A Multi-Position Wheelchair, CN202021973683.6 (Authorized, First inventor)
+2. A Multi-Functional Nursing Care Machine, CN201911036430.8 (Substantive Examination, First inventor)
 
 # Honors & Awards
 
-* 2023 National Scholarship (Postgraduate)
-* 2020 National Scholarship (Undergraduate)
+* 2024 Top 10 Outstanding Graduate Award of the College of Engineering, SUSTech
+* 2023 **National Scholarship** (Postgraduate)
+* 2023 National Third Prize, The 2023 Ascend AI Innovation Competition National Finals
+* 2021 **The Best Graduate Nomination Award** (Li Ka Shing Foundation Shantou University Medal), STU
+* 2021 Guangdong Grand Prize, The 16th Guangdong Extracurricular Academic and Scientific Works Competition
+* 2020 National First Prize, The 9th National College Students Mechanical Innovation Design Competition
+* 2020 Guangdong First Prize, The 9th Guangdong Mechanical Innovation Design Competition
+* 2020 Second Prize, Shantou Youth Innovation and Entrepreneurship Competition
+* 2020 **National Scholarship** (Undergraduate)
+* 2020-2022 President's Commendation for Outstanding Academic Contributions (2 times), STU
+* 2017-2020 First-Class Academic Excellence Scholarship (3 times), STU
 
 For more info
 -------------
