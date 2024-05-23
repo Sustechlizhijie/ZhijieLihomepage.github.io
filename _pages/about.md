@@ -76,4 +76,4 @@ Publication List
 For more info
 -------------
 
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I warmly welcome any opportunity to connect and communicate with you. If you have any interests or questions, please don't hesitate to [reach out to me](mailto:12132404@mail.sustech.edu.cn).
