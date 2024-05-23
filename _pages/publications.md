@@ -15,4 +15,3 @@ Copyright: The copyright of the papers below is owned by the respective publishe
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
