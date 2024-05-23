@@ -73,7 +73,7 @@ Publication List
 
 
 
-For more info
--------------
+For more infomation
+-------------------
 
 I warmly welcome any opportunity to connect and communicate with you. If you have any interests or questions, please don't hesitate to [reach out to me](mailto:12132404@mail.sustech.edu.cn).
