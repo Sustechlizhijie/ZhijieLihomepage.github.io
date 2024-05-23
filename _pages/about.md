@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Zhijie Li received the
+Zhijie Li completed his undergraduate studies in Mechanical Design, Manufacturing, and Automation. He furthered his education by earning a master's degree in Fluid Mechanics and is currently pursuing a doctoral degree in Biomedical Engineering. Each stage of his academic journey in different fields has contributed to his diverse knowledge background, providing him with a unique advantage in conducting interdisciplinary research. His research interests focus on the deep learning, AI for turbulence and AI for healthcare.
 
 # Education Experience
 
-* 2024 - Present, Ph.D. in Biomedical Engineering, National University of Singapore, Singapore, Supervisor: `<u>`[Prof. Chwee Teck Lim](https://ctlimlab.org/people.html) `</u>`.
-* 2021 - 2024, M.Eng in Mechanics and Aerospace Engineering, Southern University of Science and Technology, China, Supervisor: `<u>`[Prof. Jianchun Wang](https://faculty.sustech.edu.cn/?tagid=wangjc&iscss=1&snapid=1&orderby=date&go=1) `</u>`. **(Exempt from Admission Exam)**
+* 2024 - Present, Ph.D. in Biomedical Engineering, National University of Singapore, Singapore, Supervisor: [Prof. Chwee Teck Lim](https://ctlimlab.org/people.html).
+* 2021 - 2024, M.Eng in Mechanics and Aerospace Engineering, Southern University of Science and Technology, China, Supervisor: [Prof. Jianchun Wang](https://faculty.sustech.edu.cn/?tagid=wangjc&iscss=1&snapid=1&orderby=date&go=1). **(Exempt from Admission Exam)**
 * 2017 - 2021, B.Eng in Mechanical Design Manufacturing and Automation, Shantou University, China. **(Graduation with Highest Honors)**
 
 # Research Interests
